@@ -21,7 +21,7 @@ const [searchTerm,setsearchTerm] = useState([]);
   }, []);
   return (
     <div className="app">
-      <h1>MovieLand</h1>
+      <h1>ShowFlix</h1>
       <div className='search'>
         <input placeholder='Search for movies' value={searchTerm}
           onChange={(e) => setsearchTerm(e.target.value)} />
