@@ -1,6 +1,8 @@
 # Getting Started with Create React App
-#image
-![Uploading avenger.PNG…]()
+#ScreenShot
+
+![avenger](https://github.com/Mibek-Shrestha/Movieflix/assets/79530597/3a54849a-588d-4653-9bdd-b090afb18332)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
